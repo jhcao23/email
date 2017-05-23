@@ -31,5 +31,16 @@
 	do not spread it and I will let you know how to generate it from Google for yourself later.
 
 6. Remember your Excel filename such as `statement_sample`, then open browser `http://localhost:7788/report/statement_sample`, you will see the generated PDF file names.
+
+## A few tips on Mac terminal:
+
+1. `cd somewhere` go to somewhere directory
+2. `cd ..` go to upper level directory
+3. `cd ../../..` go to 3 levels up
+4. `open .` open current folder in Mac Finder
+5. `pwd` show current directory path
+6. `cp somewhere/filename .` copy filename from somewhere to current directory
+7. `rm -rf something` delete something (either folder or file)
+8. `cd ~` go to $HOME directory
 	
 	
