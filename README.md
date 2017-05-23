@@ -29,5 +29,7 @@
 5. in the `src/main/resources`, there is a file `client_secret.json`, its based on a Google account;
 	
 	do not spread it and I will let you know how to generate it from Google for yourself later.
+
+6. Remember your Excel filename such as `statement_sample`, then open browser `http://localhost:7788/report/statement_sample`, you will see the generated PDF file names.
 	
 	
