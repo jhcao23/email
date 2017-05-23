@@ -40,7 +40,8 @@
 4. `open .` open current folder in Mac Finder
 5. `pwd` show current directory path
 6. `cp somewhere/filename .` copy filename from somewhere to current directory
-7. `rm -rf something` delete something (either folder or file)
-8. `cd ~` go to $HOME directory
+7. `cp -r somedirectory .` copy some directory (whole folder) to current directory
+8. `rm -rf something` delete something (either folder or file)
+9. `cd ~` go to $HOME directory
 	
 	
